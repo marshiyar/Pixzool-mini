@@ -1,8 +1,9 @@
-# Pixzool 
-
-<img width="640" height="1398" src="https://github.com/marshiyar/Pixzool-mini/display-img/pixzool-display.png" />
-
-Professional photo and video restoration, enhancement, and editing tools, all in one place.
+# Pixzool (Used to be Pixzool-mini)
+## Professional photo and video restoration, enhancement, and editing tools, all in one place.
+<a href="https://apps.apple.com/app/id6759997803">
+    <img src="https://img.shields.io/badge/Download-Pixzool_Mini-blue?style=for-the-badge" alt="Download Pixzool on App Store" />
+  </a>
+<img width="320" height="699" src="display-img/pixzool-display.png" />
 
 ENHANCE YOUR MEDIA
 
@@ -71,16 +72,13 @@ Your photo and video enhancement work is processed on device. Pixzool does not u
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacy Policy: https://www.pixzool.app/privacy
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 OLD/Legacy starting below
 # Pixzool-mini
 Pixzool Mini is a lightweight (19.2 mb) local and native macOS application. Pixzool Mini requires no internet and all actions performed stay on your own device. Pixzool Mini is a derivative and minified version of a full suit application I am working on
 
 
 <p align="center">
-  <a href="https://github.com/marshiyar/Pixzool-mini/releases/download/1.0.0/Pixzool-Mini.dmg">
-    <img src="https://img.shields.io/badge/Download-Pixzool_Mini-blue?style=for-the-badge" alt="Download Pixzool Mini" />
-  </a>
   <a href="https://youtu.be/56Qv9WUdAH4?si=jvY8l1Tvgzw9m5q-">
     <img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
   </a>
